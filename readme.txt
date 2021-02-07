@@ -1,13 +1,13 @@
-Модуль посылки SMS сообщений клиенту при получении и при смене статуса заказа.
-Автор: Gennady Telegin <support@itxd.ru>
+Module for sending SMS messages to the client upon receipt and upon order status change.
+Author: Gennady Telegin <support@itxd.ru>
 
-Возможности модуля:
- * Задать формат сообщения клиенту при получении магазином заказа.
- * Задать для каких статусов заказов нужно посылать СМС.
- * Для каждого статуса заказа задать отдельный формат сообщения.
+Module features:
+  * Set the format of the message to the client when the store receives the order.
+  * Specify for which order statuses you need to send SMS.
+  * For each order status, set a separate message format.
  
-Для установки скопируйте содержимое папки upload на Ваш сервер.
-Для работы требуется установленный VQMod.
+To install, copy the contents of the upload folder to your server.
+Requires installed VQMod to work.
 
-Если возникли сложности или вопросы, то обращайтесь по support@itxd.ru
-Добавление полей в шаблоны СМС - по запросу.
+If you have any difficulties or questions, please contact support@itxd.ru
+Adding fields to SMS templates - on request. 
